@@ -1,16 +1,25 @@
-# task2
+# ScaleUp_Task_2-3-
 
-A new Flutter project.
+A Flutter application that integrates with the [Fake Store API](https://fakestoreapi.com/) to display a list of products and their details.
+
+## Features
+
+- Fetches product data from the Fake Store API.
+- Displays a list of products with their images, titles, and prices.
+- Allows users to tap on a product to view detailed information, including description and price.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+- [Dart SDK](https://dart.dev/get-dart) (usually comes with Flutter).
+- An IDE or code editor like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/MKhalidHossain/ScaleUp_Task_2-3-.git
+   cd ScaleUp_Task_2-3-
